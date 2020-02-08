@@ -1,0 +1,9 @@
+[
+  {
+    "name": "FRC 2020",
+    "file": "C:\\FRC 2020\\build\\libs\\FRC 2020.jar",
+    "extensions": [],
+    "librarydir": "C:\\FRC 2020\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.team4468.robot.Main"
+  }
+]
